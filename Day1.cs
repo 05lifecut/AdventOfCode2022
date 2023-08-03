@@ -24,8 +24,7 @@ namespace Day1
                     {
                         thirdCalories = secondCalories;
                         secondCalories = highestCalories;
-                        highestCalories = totalCalories;
-                        
+                        highestCalories = totalCalories;                        
                     }
                     else if (totalCalories > secondCalories)
                     {
